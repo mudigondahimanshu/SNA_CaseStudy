@@ -1,0 +1,6 @@
+measure,mean,median,std,min,max
+in-degree,40.27,16.0,55.05,0,1364
+out-degree,40.27,15.0,53.87,0,964
+total degree,80.55,30.0,106.2,4,2328
+weighted in,48.63,18.0,73.94,0,2472
+weighted out,48.63,17.0,70.2,0,1638

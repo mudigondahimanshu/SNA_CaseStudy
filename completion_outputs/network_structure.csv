@@ -1,0 +1,13 @@
+metric,value
+nodes,6434.0
+directed_edges,259122.0
+mean_total_degree,80.54771526266708
+mean_in_degree,40.27385763133354
+directed_density,0.006260509502772196
+reciprocity,0.4187911485709434
+weak_components,1.0
+strong_components,25.0
+undirected_clustering,0.07204143115642918
+max_core,84.0
+canonical_modularity,0.12246059501496862
+intercommunity_edge_fraction,0.7896357700233867

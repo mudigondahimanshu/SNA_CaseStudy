@@ -1,0 +1,42 @@
+########## HN v3 - PROCESSING REPORT ##########
+comments indexed (API)          : 920,163
+resolved user-user interactions : 430,560
+-- cleaning (defect removal) --
+   removed [self_reply]: 2,386
+   removed [missing_story_context]: 10
+   after cleaning               : 428,164
+-- population scoping (design filter, NOT defect removal) --
+   excluded: user activity < K=20: 115,251
+FINAL RECORDS                   : 312,913
+
+########## DATASET STATISTICS ##########
+unique_stories            : 13,772
+unique_comments           : 312,913
+unique_users              : 6,434
+unique_source_users       : 6,432
+unique_target_users       : 6,412
+unique_interaction_pairs  : 259,122
+repeated_interactions     : 53,791
+columns with missing vals : NONE - 0% across all 16 columns
+thread_depth distribution : {2: 115580, 3: 70920, 4: 46597, 5: 30204, 6: 19120, 7: 11943, 8: 18549} (8=8+)
+temporal_range            : 2025-09 -> 2026-09 (13 months)
+records_per_month         : {'2025-09': 631, '2025-10': 922, '2025-11': 1309, '2025-12': 1587, '2026-01': 4755, '2026-02': 7393, '2026-03': 13858, '2026-04': 22856, '2026-05': 41984, '2026-06': 56835, '2026-07': 69898, '2026-08': 77695, '2026-09': 13190}
+
+########## STRUCTURAL VALIDATION ##########
+nodes                     : 6,434
+edges (unique dyads)      : 259,122
+edge/node ratio           : 40.27
+MEAN DEGREE               : 80.55
+median / max degree       : 30 / 2328
+density                   : 0.006261
+isolated_nodes            : 0
+connected_components      : 1  largest 6,434 (100.0%)
+degree-1 nodes            : 0.0%
+weighted edges (w>1)      : 36,225
+max edge weight           : 34
+reciprocity               : 0.4188
+avg clustering            : 0.0720
+avg degree connectivity   : low-k [3, 4, 5] -> [124.8, 149.6, 114.3] ; k>=50 -> 169.4
+degree assortativity      : -0.0092
+10-core subgraph          : 6,241 nodes / 257,018 edges
+provenance_complete       : 312,913/312,913 (100%)

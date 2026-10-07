@@ -1,0 +1,18 @@
+# Local Python environment and caches
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*
+
+# Private or oversized source data
+data/hn_interactions_v3_CLEAN.csv
+username_mapping_v3_PRIVATE.json
+
+# Local presentation build and temporary validation files
+.ppt_build/
+.codex-finalizer/
+presentation/.build/
+
+# Generated notebook execution cache that is not a project deliverable
+completion_outputs/input_manifest.json

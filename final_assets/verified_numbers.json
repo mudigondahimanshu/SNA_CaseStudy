@@ -1,0 +1,18 @@
+{
+  "outbreaks": 3418,
+  "sensors": 20,
+  "celf_detected": 1781,
+  "top_reach_detected": 1585,
+  "random_rate_saved_10_draw_mean": 0.1411059098888238,
+  "median_delay_detected_h": 2.63,
+  "median_observed_lifespan_all_outbreaks_h": 56.38194444444444,
+  "before_half_among_detected": 0.7759685569904547,
+  "celf_overlap": 0.486002886002886,
+  "top_reach_overlap": 0.6074789499752353,
+  "relative_detection_gain_k20_pct": 12.36593059936908,
+  "greedy_celf_evaluation_ratio_k5": 3.9533043134151167,
+  "influence_gain_vs_degree_k30_pct": 0.5257992148065105,
+  "detection_gain_vs_top_reach_k30_pct": 13.135135135135156,
+  "heldout_celf_k20": 0.2682186234817814,
+  "heldout_top_reach_k20": 0.4564777327935223
+}

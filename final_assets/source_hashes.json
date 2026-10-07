@@ -1,0 +1,9 @@
+{
+  "data/hn_interactions_v3_CLEAN.csv": "805bb5b3d996fb2b7cf6974b7f430b3218a7b240fa5ee0ad691253e9274c5060",
+  "data/detection_results.csv": "415a9423ee406d9bee266d9f1d3fff130599ce86eb658655aba5a3492e6de650",
+  "data/detection_summary.json": "478b102ecdb782c8e6c14285e5968306b1e6477166f0d64c038b03e3ade58cc9",
+  "username_mapping_v3_PRIVATE.json": "fb52e04cdb0aadb52036d4f9478b5cf9d188f8002aba5b87dce0231a74bc95e7",
+  "im_results.csv": "ce0b77874878733ff22e36b269ec70fffdeefc313d02e4c2187d1c229990061c",
+  "experiment_summary.json": "dfffc9026d69cc76cb5bfbb0b5542f8fcaf405aa068902200ee8702b945023e1",
+  "completion_outputs/test_detection_results.csv": "381ff583cd204ff263de0cbedd69c2c507b2a93eda8b2360c8ab3b4ff1a559fd"
+}

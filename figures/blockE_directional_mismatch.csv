@@ -1,0 +1,5 @@
+measure,vs_in_degree,vs_out_degree,gap
+pagerank,0.982,0.746,0.236
+eigenvector,0.953,0.742,0.211
+betweenness,0.906,0.889,0.018
+closeness,0.754,0.927,-0.173

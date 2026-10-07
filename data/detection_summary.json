@@ -1,0 +1,32 @@
+{
+  "k": 20,
+  "sensors": [
+    "fragmede",
+    "inigyou",
+    "watwut",
+    "SoftTalker",
+    "embedding-shape",
+    "fc417fc802",
+    "mschuster91",
+    "dylan604",
+    "lelanthran",
+    "stavros",
+    "vkou",
+    "bigstrat2003",
+    "nkrisc",
+    "Aurornis",
+    "wongarsu",
+    "xboxnolifes",
+    "rcxdude",
+    "HDThoreaun",
+    "AlotOfReading",
+    "TheOtherHobbes"
+  ],
+  "detection_rate": 0.5210649502633119,
+  "mean_delay_h": 5.83706032815522,
+  "median_delay_h": 2.63,
+  "false_alarms": 431.0,
+  "precision": 0.8051537070524413,
+  "median_lead_h": 2.4455555555555555,
+  "pct_before_half": 77.59685569904548
+}

@@ -1,0 +1,4 @@
+model,mean_p,max_p,p_equals_one_edges
+standard WC,0.024745100763346996,1.0,18
+historical capped WC,0.024710368089162636,0.5,0
+weight-derived capped,0.03591980022623104,0.5,0

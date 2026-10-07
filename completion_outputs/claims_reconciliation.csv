@@ -1,0 +1,23 @@
+prior_claim_or_issue,finding,resolution
+52.1% detection with 20 sensors,"Reproduced, in-sample only",Use the new temporal test table for out-of-period performance.
+Greedy 597 / CELF 260 evaluations,"Earlier run, not the saved production run","Saved production: 9990 / 2527; k=5, 500 worlds, pool=2000."
+All reported metrics are Python-computed,Mixed provenance,Saved gephi_node_metrics.csv has Gephi internal names; canonical metrics are newly computed and labelled.
+10 communities in every analysis,Mixed partitions,Report canonical partition/Q together; retain saved Gephi partition separately.
+PageRank is worst predictor,Contradicted by the old correlation CSV,Old eigenvector rho=0.655 is lower than PageRank rho=0.668; use the new full comparison table.
+WC is exactly 1/in-degree in old code,Old code caps p at 0.5,New primary experiment uses uncapped WC; capped WC is explicit sensitivity.
+RIS and CELF used the same scoring worlds,Not in the old merged results,New comparison uses common independent worlds and paired Monte Carlo intervals.
+Fixed theta RIS inherits a certified guarantee,Not established,"20,000 RR sets are an experimental budget; no epsilon/delta certification is claimed."
+CELF-detect reward is monotone as written,Old reward could be negative,New reward clips at zero; toy and real-data tests included.
+Large degree redundancy proves a large CELF gain,Does not follow,Compare actual joint spread and paired differences; both sets may be redundant.
+Model sensitivity is stable,Saved alternate CELF run has 0/10 overlap,Report the sensitivity failure and new RIS-based model comparisons.
+13 months of elapsed observations,13 calendar months touched,Elapsed time is about one year; exact timestamps in dataset_audit.csv.
+Usernames exist only in the private mapping,Incorrect for existing files,Primary CSV and historical detection exports also contain usernames; new outputs use pseudonyms.
+Mean shortest path 2.542 is a directed result,Earlier code uses the undirected projection,Label graph direction for every distance statistic.
+Log-log slope establishes scale-free structure,Insufficient evidence,Use empirical distribution/CCDF; no formal power-law conclusion.
+Half-activity means peak activity,Different quantities,Half-activity uses the median retained reply timestamp; peak is not estimated.
+Closeness was approximated for every node,Old local code evaluated only 600 nodes,New closeness is exact for all nodes with explicit direction.
+Sparse/disconnected graphs make IM undefined,Mathematically incorrect,"IM remains defined, but practical spread and experiment informativeness can be limited."
+A timestamped study is impossible on any benchmark,Overbroad,The cited static benchmarks lack the necessary event timing; other timestamped datasets may support detection.
+All six heuristic baselines were used in original IM,Closeness was absent from the main comparison,New comparison explicitly includes outward closeness.
+Re-run old main notebook against current metrics unchanged,Exact-name checks skip some Gephi columns,This notebook recomputes and names its centralities consistently.
+Cascade GIF represents primary experiment probabilities,Illustrative only,Old animation doubles probabilities on a filtered subgraph; it is not a validation result.

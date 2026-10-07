@@ -1,0 +1,11 @@
+{
+  "cut1_utc": "2026-06-25 05:07:33+00:00",
+  "cut2_utc": "2026-08-01 19:29:22.400000095+00:00",
+  "horizon_hours": 36.176944444444445,
+  "min_participants": 10,
+  "k_prespecified": 20,
+  "candidate_policy": "all training graph users",
+  "purged_stories": 258,
+  "validation_selected_k": 30,
+  "budget_rule": "smallest tested k achieving >=95% of maximum validation early reward"
+}

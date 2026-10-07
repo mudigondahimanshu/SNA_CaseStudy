@@ -1,0 +1,7 @@
+item,status,needed_for
+"Original collection and cleaning scripts, raw API responses and audit logs",Not present in supplied project,Recollection and independent verification of acquisition/cleaning counts
+Earlier Reddit/GitHub attempts and HN v1/v2 datasets,Narrative only in supplied project,Verification of platform rejection and earlier-version statistics
+Prospective monitoring data / unbiased sampling frame,New data required,Future operational validation and removal of original population-selection bias
+Ground-truth adoption or causal influence labels,Not observed,Claims about adoption/causality rather than reply attention
+"Faculty rubric, final formatting requirements and author details",Not supplied,Final submission formatting and rubric compliance
+Browser interaction testing of generated HTML,Not claimed by notebook,Visual/interaction QA in the presentation browser

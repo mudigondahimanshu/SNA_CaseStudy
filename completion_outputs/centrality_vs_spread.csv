@@ -1,0 +1,10 @@
+centrality,spearman_vs_simulated_singleton_spread,sample_nodes,selection_worlds
+out_degree,0.8764341287421183,400,200
+closeness_out,0.8402670058819497,400,200
+total_degree,0.8192717765125123,400,200
+core_number,0.8042556790298859,400,200
+eigenvector_undirected,0.7694736266773999,400,200
+betweenness_sampled,0.749365940814725,400,200
+in_degree,0.7137848239691008,400,200
+closeness_in,0.6919473829574008,400,200
+pagerank,0.6797136967191107,400,200
